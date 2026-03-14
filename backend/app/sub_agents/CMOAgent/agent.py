@@ -97,7 +97,23 @@ INPUT DATA AVAILABLE TO YOU
 ML Classification Result:
 {classification_result}
 
+Specialist Opinions:
+{other_specialty_opinion}
 
+Cardiology Opinions:
+{cardiology_opinion}
+
+EmergencyMedicine : 
+{emergency_medicine_opinion}
+
+GeneralMedicine : 
+{general_medicine_opinion}
+
+Neurology : 
+{neurology_opinion}
+
+PulmonaryMedicine : 
+{pulmonology_opinion}
 
 
 ═══════════════════════════════════════
